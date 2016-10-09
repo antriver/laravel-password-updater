@@ -1,0 +1,16 @@
+{
+    "name": "tmd/laravel-password-updater",
+    "description": "Handles password verification and re-hashing passwords that may be hashed by outdated methods.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Kuske",
+            "homepage": "http://www.anthonykuske.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tmd\\LaravelPasswordUpdater\\": "src/"
+        }
+    },
+}
